@@ -11,7 +11,7 @@ import {
   IconButton,
   MenuItem,
 } from "@material-ui/core";
-import { NFTStorage, File } from "nft.storage";
+import { NFTStorage } from "nft.storage/dist/bundle.esm.min.js";
 import { createRef } from "react";
 import { apiKey } from "../../APIKEYS";
 
